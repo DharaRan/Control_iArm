@@ -1,5 +1,5 @@
 # Control_iArm
-# Biomedical Engineering Pattern Recognition Application
+# Biomedical Engineering Pattern Recognition Project
 
 Biomedical application to machine learning and pattern recognition. 
 In this project, my team and I had to control an iArm with EMG signal in our arm. 
